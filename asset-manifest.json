@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yuvrajrajak.github.io/react-todolist/static/css/main.c73ed390.chunk.css",
+    "main.js": "/yuvrajrajak.github.io/react-todolist/static/js/main.495f38cf.chunk.js",
+    "main.js.map": "/yuvrajrajak.github.io/react-todolist/static/js/main.495f38cf.chunk.js.map",
+    "runtime-main.js": "/yuvrajrajak.github.io/react-todolist/static/js/runtime-main.407d8b76.js",
+    "runtime-main.js.map": "/yuvrajrajak.github.io/react-todolist/static/js/runtime-main.407d8b76.js.map",
+    "static/js/2.73140be8.chunk.js": "/yuvrajrajak.github.io/react-todolist/static/js/2.73140be8.chunk.js",
+    "static/js/2.73140be8.chunk.js.map": "/yuvrajrajak.github.io/react-todolist/static/js/2.73140be8.chunk.js.map",
+    "static/js/3.c94144f2.chunk.js": "/yuvrajrajak.github.io/react-todolist/static/js/3.c94144f2.chunk.js",
+    "static/js/3.c94144f2.chunk.js.map": "/yuvrajrajak.github.io/react-todolist/static/js/3.c94144f2.chunk.js.map",
+    "index.html": "/yuvrajrajak.github.io/react-todolist/index.html",
+    "static/css/main.c73ed390.chunk.css.map": "/yuvrajrajak.github.io/react-todolist/static/css/main.c73ed390.chunk.css.map",
+    "static/js/2.73140be8.chunk.js.LICENSE.txt": "/yuvrajrajak.github.io/react-todolist/static/js/2.73140be8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yuvrajrajak.github.io/react-todolist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.407d8b76.js",
+    "static/js/2.73140be8.chunk.js",
+    "static/css/main.c73ed390.chunk.css",
+    "static/js/main.495f38cf.chunk.js"
+  ]
+}
